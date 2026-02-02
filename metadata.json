@@ -1,0 +1,7 @@
+{
+  "name": "AiForge - Virtual Garment Fitting",
+  "description": "An AI-powered virtual try-on platform for South Asian fashion, enabling users to create realistic 3D avatars based on body measurements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
